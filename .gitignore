@@ -1,0 +1,79 @@
+# Build results
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]og/
+artifacts/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.userprefs
+
+# Visual Studio
+.vs/
+*.vcxproj.filters
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+*.vspscc
+*.vssscc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Publish output
+publish/
+dist/
+wwwroot/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Test results
+TestResult*/
+*.coverage
+*.coveragexml
+
+# Tooling / Cache
+.cache/
+*.dbmdl
+*.dbproj.schemaview
+*.pdb
+
+# Generated JSON or runtime files
+*.generated.json
+*.local.json
+
+# Backup / Autosave
+*~
+*.bak
+
+# Environment
+.env
+.env.*
+secrets.json
+
+# Logs
+*.log
+logs/
