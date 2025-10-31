@@ -19,5 +19,6 @@ A simple console-based library management system written in C# (.NET).
 - Alisher Zhambirbay  
 - Amir Bajnazarov
 - Adil Akhmetov  
+- Ekaterina Porvan
 
 Created: October 2025
