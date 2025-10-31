@@ -20,6 +20,7 @@
     *  - Alisher
     *  - Amir
     *  - Adil
+    *  - Ekaterina
     *
     * Created: October 2025
 */
